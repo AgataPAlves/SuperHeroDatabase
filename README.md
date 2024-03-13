@@ -1,2 +1,2 @@
 # SuperHeroDatabase
- A app made with Angular and .NET
+ An app made with Angular and .NET
